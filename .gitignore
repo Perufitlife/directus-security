@@ -1,0 +1,4 @@
+node_modules/
+*.log
+directus-report.html
+.DS_Store
